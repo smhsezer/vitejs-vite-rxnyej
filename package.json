@@ -1,0 +1,22 @@
+{
+  "name": "vite-preact-starter",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "parse5": "^7.0.0",
+    "preact": "^10.7.2",
+    "preact-html-converter": "^0.4.2",
+    "preact-router": "^4.0.1",
+    "react-toastify": "^9.0.4"
+  },
+  "devDependencies": {
+    "@preact/preset-vite": "^2.2.0",
+    "vite": "^2.9.8"
+  }
+}

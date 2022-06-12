@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<url>
+  <loc>https://rodasshipgroup.com/tr/</loc>
+  <xhtml:link rel="alternate" hreflang="en" href="https://rodasshipgroup.com/en/" />
+  <xhtml:link rel="alternate" hreflang="tr" href="https://rodasshipgroup.com/tr/" />
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://rodasshipgroup.com/en/</loc>
+  <xhtml:link rel="alternate" hreflang="tr" href="https://rodasshipgroup.com/tr/" />
+  <xhtml:link rel="alternate" hreflang="en" href="https://rodasshipgroup.com/en/" />
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://rodasshipgroup.com/tr/services/</loc>
+  <xhtml:link rel="alternate" hreflang="en" href="https://rodasshipgroup.com/en/services/" />
+  <xhtml:link rel="alternate" hreflang="tr" href="https://rodasshipgroup.com/tr/services/" />
+  <priority>0.90</priority>
+</url>
+<url>
+  <loc>https://rodasshipgroup.com/en/services/</loc>
+  <xhtml:link rel="alternate" hreflang="tr" href="https://rodasshipgroup.com/tr/services/" />
+  <xhtml:link rel="alternate" hreflang="en" href="https://rodasshipgroup.com/en/services/" />
+  <priority>0.90</priority>
+</url>
+<url>
+  <loc>https://rodasshipgroup.com/tr/aboutus/</loc>
+  <xhtml:link rel="alternate" hreflang="en" href="https://rodasshipgroup.com/en/aboutus/" />
+  <xhtml:link rel="alternate" hreflang="tr" href="https://rodasshipgroup.com/tr/aboutus/" />
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://rodasshipgroup.com/en/aboutus/</loc>
+  <xhtml:link rel="alternate" hreflang="tr" href="https://rodasshipgroup.com/tr/aboutus/" />
+  <xhtml:link rel="alternate" hreflang="en" href="https://rodasshipgroup.com/en/aboutus/" />
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://rodasshipgroup.com/tr/contact/</loc>
+  <xhtml:link rel="alternate" hreflang="en" href="https://rodasshipgroup.com/en/contact/" />
+  <xhtml:link rel="alternate" hreflang="tr" href="https://rodasshipgroup.com/tr/contact/" />
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://rodasshipgroup.com/en/contact/</loc>
+  <xhtml:link rel="alternate" hreflang="tr" href="https://rodasshipgroup.com/tr/contact/" />
+  <xhtml:link rel="alternate" hreflang="en" href="https://rodasshipgroup.com/en/contact/" />
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://rodasshipgroup.com/tr/career/</loc>
+  <xhtml:link rel="alternate" hreflang="en" href="https://rodasshipgroup.com/en/career/" />
+  <xhtml:link rel="alternate" hreflang="tr" href="https://rodasshipgroup.com/tr/career/" />
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://rodasshipgroup.com/en/career/</loc>
+  <xhtml:link rel="alternate" hreflang="tr" href="https://rodasshipgroup.com/tr/career/" />
+  <xhtml:link rel="alternate" hreflang="en" href="https://rodasshipgroup.com/en/career/" />
+  <priority>0.80</priority>
+</url>
+</urlset>

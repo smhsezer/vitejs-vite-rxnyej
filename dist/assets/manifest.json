@@ -1,0 +1,38 @@
+{
+  "name": "Rodas Ship Group",
+  "short_name": "Rodas",
+  "theme_color": "#2b2a28",
+  "background_color": "#ffffff",
+  "display": "standalone",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "https://kl9yubfg.b-cdn.net/rodasshipgroup.com//img/logo/icon_72.png",
+      "type": "image/png",
+      "sizes": "72x72"
+    },
+    {
+      "src": "https://kl9yubfg.b-cdn.net/rodasshipgroup.com/img/logo/icon_144.png",
+      "type": "image/png",
+      "sizes": "144x144"
+    },
+    {
+      "src": "https://kl9yubfg.b-cdn.net/rodasshipgroup.com/img/logo/icon_196.png",
+      "type": "image/png",
+      "sizes": "196x196"
+    },
+    {
+      "src": "https://kl9yubfg.b-cdn.net/rodasshipgroup.com/img/logo/icon_256.png",
+      "type": "image/png",
+      "sizes": "256x256"
+    },
+    {
+      "src": "https://kl9yubfg.b-cdn.net/rodasshipgroup.com/img/logo/icon_512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "scope": "/",
+  "start_url": "https://rodasshipgroup.com",
+  "prefer_related_applicati": false
+}

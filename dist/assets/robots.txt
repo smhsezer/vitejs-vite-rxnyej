@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /tr/cookiepolicy/
+Disallow: /en/cookiepolicy/
+Disallow: /tr/privacy/
+Disallow: /en/privacy/
+Sitemap: https://rodasshipgroup.com/assets/sitemap.xml

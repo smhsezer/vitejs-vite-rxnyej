@@ -1,0 +1,248 @@
+{
+  "site": "rodasshipgroup.com",
+  "title": "Rodas Ship Group",
+  "shortTitle": "Rodas",
+  "theme": { "color": "#2b2a28" },
+  "logo": {
+    "img": "logo",
+    "animate": {
+      "stt": true,
+      "class": "rotate-center-to-left",
+      "img": "logo_animate"
+    }
+  },
+  "menu": [
+    { "url": "/", "name": "index", "txt": "Home" },
+    { "url": "/aboutus/", "name": "aboutus", "txt": "Aboutus" },
+    { "url": "/services/", "name": "services", "txt": "Our Services" },
+    { "url": "/career/", "name": "career", "txt": "Career" },
+    { "url": "/contact/", "name": "contact", "txt": "Contact" },
+    { "url": "/catalog/", "name": "catalog", "txt": "Catalog" }
+  ],
+  "footer": [
+    {
+      "text": "<h5>Rodas Denizcilik Gemicilik Turizm San.Ltd.Şti.</h5> <address> Çıtlakkale Mah.İnönü Cad.No:114/A<br> Merkez / Giresun / Türkiye<br> </address> <a class=\"text-light\" href=\"tel:+905425229690\">Tel: +90 542 522 96 90</a>"
+    }
+  ],
+  "copyright": "All Rights Reserved © 2022",
+  "pages": {
+    "index": {
+      "metatitle": "Home | Rodas Ship Group",
+      "description": "Rodas Ship Group, ship agency, management, freight transportation, ship trading and documentation, seaman training, etc. provides services in the fields.",
+      "content": [
+        {
+          "id": "slider",
+          "uid": "0256",
+          "title": null,
+          "text": [
+            "Ship Agency, Management and Freight Forwarding",
+            "Ship-Boat Purchase-Sale, Surveying and Documentation",
+            "Shipman Training and Personnel Services"
+          ]
+        },
+        {
+          "id": "card",
+          "uid": "card_kh5",
+          "title": "Our Services",
+          "cards": [
+            {
+              "img": "/services/service_1",
+              "title": "Agency, Business and Transportation",
+              "text": "<ul><li>Ship-Boat Agency</li><li>Ship Management-Leasing</li><li>Ship Cargo Transportation</li><li>Istanbul/Çanakkale Bosphorus Agency</li><li> Ship Cargo Brokerage</li></ul>",
+              "action": null
+            },
+            {
+              "img": "/services/service_2",
+              "title": "Trading, Reporting and Insurance",
+              "text": "<ul><li>Ship-Boat Purchase-Sale</li><li>Feasibility Study, Reporting</li><li>Boat/Marine Insurance</li><li>P&I Club</li><li>Flagging, Classification</li><li>Certification</li></ul>",
+              "action": null
+            },
+            {
+              "img": "/services/service_3",
+              "title": "Ship Repair",
+              "text": "<ul><li>Ship-Boat Sheet Metal Measurement/Reporting</li><li>Ultrasonic Measurement/Reporting</li><li>Safety Material Services/Certification</li><li>Material Procurement</li><li>Sheet, Pipe and Welding/Reporting</li><li>Machine Maintenance-Repair/Reporting</li><li>Ship-Boat Radio Survey</li><li>Device Repair, Maintenance, Attitude/Certification </li><li>Ship Electrical and Electronics Service, Maintenance and Repair</li></ul>",
+              "action": null
+            },
+            {
+              "img": "/services/service_4",
+              "title": "Consultancy",
+              "text": "<ul><li>Maritime Law Consultancy</li><li>International Review</li><li>Overseas Export/Import Consultancy</li><li>Shipyard Correspondence and Consultancy</li></ul>",
+              "action": null
+            },
+            {
+              "img": "/services/service_5",
+              "title": "Training",
+              "text": "<ul><li>Seaman Training</li><li>Seaman License and Certification</li><li>Shipman Document Tracking</li><li>Ship Personnel Employment and Brokerage Services</li> </ul>",
+              "action": null
+            },
+            {
+              "img": "/services/service_6",
+              "title": "Code Practices and Documentation",
+              "text": "<ul><li>Ship-Boat ISM Code Applications</li><li>Ship-Boat ISPS Code Applications</li><li>Ship-Boat International Planning</li><li>Ship-Boat SOLAS Applications</li><li>Ship-Boat MARPOL Applications Consultancy and Certification</li></ul>",
+              "action": null
+            },
+            {
+              "img": "/services/service_7",
+              "title": "Ship Food Supply",
+              "text": "<ul><li>Ship's Food and Material Supply</li></ul>",
+              "action": null
+            }
+          ]
+        },
+        {
+          "id": "list-slider",
+          "uid": "6584",
+          "title": "Class Organizations",
+          "list": [
+            [
+              {
+                "link": null,
+                "img": "/classes/class_1",
+                "text": "Deniz Ticaret Odası"
+              },
+              { "link": null, "img": "/classes/class_2", "text": "IMO" },
+              {
+                "link": null,
+                "img": "/classes/class_3",
+                "text": "Panama Maritime Documentation Services"
+              },
+              {
+                "link": null,
+                "img": "/classes/class_4",
+                "text": "Vega Register"
+              }
+            ],
+            [
+              { "link": null, "img": "/classes/class_5", "text": "ICS Class" },
+              {
+                "link": null,
+                "img": "/classes/class_6",
+                "text": "Panama Shipping Registrar"
+              },
+              { "link": null, "img": "/classes/class_7", "text": "NASHA" }
+            ]
+          ]
+        }
+      ]
+    },
+    "aboutus": {
+      "metatitle": "Aboutus | Rodas Ship Group",
+      "description": "Rodas Denizcilik Gemicilik Turizm San. Ltd. Sti. It was established in 2022 with its experienced staff in the region where it is located.",
+      "content": [
+        { "id": "banner", "title": "Aboutus", "img": "/banner/banner_1" },
+        {
+          "id": "p",
+          "text": "<h2>Rodas Denizcilik Gemicilik Turizm San. Ltd. Sti. </h2><p>It was established in 2022 with its experienced staff in the region where it is located. As an activity, it is designed for all kinds of activities in every branch of the maritime industry.</p> <ul><li>Consultancy and support to national and international investors</li><li>Ship and boat agency</li><li>Bosphorus agency</li><li>Ship management, fishing, ship trading, maritime law consultancy</li><li>Personnel services, classification</li></ul><p>Rodas Marine, an Eastern Black Sea company, is located in this region. It carries out the necessary works for the supply and certification required for fishing companies and fishing vessels.</p><p>It is a company that directs the investors with maritime interest in the region and plans their target policies.</p><p>Modern and high quality service understanding. Setting out with Rodas Marine, it has aimed to contribute to maritime with fast, quality and safe service.</p>"
+        }
+      ]
+    },
+    "services": {
+      "metatitle": "Our Services | Rodas Ship Group",
+      "description": "Ship agency, operation and transportation, ship purchase-sale and insurance, ship maintenance and repair, maritime law consultancy, seafarer training etc. We offer services.",
+      "content": [
+        { "id": "banner", "title": "Our Services", "img": "/banner/banner_3" },
+        { "id": "ref", "refId": "card_kh5", "refPage": "index" }
+      ]
+    },
+    "career": {
+      "metatitle": "Career | Rodas Ship Group",
+      "description": "Rodas Denizcilik Gemicilik Turizm San.Ltd.Şti. You can apply for a job in various titles and positions within the company.",
+      "content": [
+        { "id": "banner", "title": "Career", "img": "/banner/banner_2" },
+        {
+          "id": "form",
+          "action": { "type": "POST", "text": "Apply", "url": "/form/career" },
+          "items": [
+            {
+              "id": "name",
+              "type": "text",
+              "text": "Name-Surname",
+              "required": true
+            },
+            {
+              "id": "email",
+              "type": "email",
+              "text": "Email",
+              "required": true
+            },
+            {
+              "id": "tel",
+              "type": "tel",
+              "text": "Phone No.",
+              "required": true
+            },
+            {
+              "id": "cv",
+              "type": "url",
+              "text": "CV Link (LinkedIn, Kariyer.net etc.)",
+              "required": true
+            },
+            {
+              "id": "msg",
+              "type": "textarea",
+              "text": "Message (optional)",
+              "required": false
+            },
+            {
+              "id": "from",
+              "type": "hidden",
+              "value": "info@rodasshipgroup.com",
+              "required": true
+            }
+          ]
+        }
+      ]
+    },
+    "contact": {
+      "metatitle": "Contact | Rodas Ship Group",
+      "description": "On the Rodas Ship Group contact page, Rodas Denizcilik Gemicilik Turizm San.Ltd.Şti. contact information and a contact form.",
+      "content": [
+        { "id": "banner", "title": "Contact", "img": "/banner/banner_4" },
+        {
+          "id": "p",
+          "text": "<br><h2 class=\"border-bottom\">Our Contact Information</h2> <h3>Rodas Denizcilik Gemicilik Turizm San.Ltd.Şti.</h3> <address> Çıtlakkale Mah.İnönü Cad.No:114 /A<br> Merkez / Giresun / Turkey<br> </address> <b>Tel:</b><br><a href=\"tel:+905425229690\">+90 542 522 96 90</ a><br> <b>E-mail:</b><br> <div>info@rodasshipgroup.com</div><br> <div>ops@rodasshipgroup.com</div><br> <div>chartering@rodasshipgroup.com</div>"
+        },
+        {
+          "id": "form",
+          "action": { "type": "POST", "text": "Send", "url": "/form/contact" },
+          "items": [
+            {
+              "id": "name",
+              "type": "text",
+              "text": "Name-Surname",
+              "required": true
+            },
+            {
+              "id": "email",
+              "type": "email",
+              "text": "Email",
+              "required": true
+            },
+            {
+              "id": "msg",
+              "type": "textarea",
+              "text": "Message",
+              "required": true
+            },
+            {
+              "id": "from",
+              "type": "hidden",
+              "value": "info@rodasshipgroup.com",
+              "required": true
+            }
+          ]
+        }
+      ]
+    },
+    "catalog": {
+      "metatitle": "Catalog | Rodas Ship Group",
+      "description": "You can review our catalog that includes our corporate information and services.",
+      "content": [
+        {
+          "id": "p",
+          "text": "<div class=\"pt-5 text-center\">Our catalog is under construction.</div>"
+        }
+      ]
+    }
+  }
+}

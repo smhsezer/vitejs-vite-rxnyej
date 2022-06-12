@@ -1,0 +1,253 @@
+{
+  "site": "rodasshipgroup.com",
+  "title": "Rodas Ship Group",
+  "shortTitle": "Rodas",
+  "theme": { "color": "#2b2a28" },
+  "logo": {
+    "img": "logo",
+    "animate": {
+      "stt": true,
+      "class": "rotate-center-to-left",
+      "img": "logo_animate"
+    }
+  },
+  "menu": [
+    { "url": "/", "name": "index", "txt": "Anasayfa" },
+    { "url": "/aboutus/", "name": "aboutus", "txt": "Hakkımızda" },
+    { "url": "/services/", "name": "services", "txt": "Hizmetlerimiz" },
+    { "url": "/career/", "name": "career", "txt": "Kariyer" },
+    { "url": "/contact/", "name": "contact", "txt": "İletişim" },
+    { "url": "/catalog/", "name": "catalog", "txt": "Katalog" }
+  ],
+  "footer": [
+    {
+      "text": "<h5>Rodas Denizcilik Gemicilik Turizm San.Ltd.Şti.</h5> <address> Çıtlakkale Mah.İnönü Cad.No:114/A<br> Merkez / Giresun / Türkiye<br> </address> <a class=\"text-light\" href=\"tel:+905425229690\">Tel: +90 542 522 96 90</a>"
+    }
+  ],
+  "copyright": "Tüm Hakları Saklıdır © 2022",
+  "pages": {
+    "index": {
+      "metatitle": "Anasayfa | Rodas Ship Group",
+      "description": "Rodas Ship Group, gemi acenteliği, işletmeciliği, yük taşımacılığı, gemi alım-satımı ve evrakladırması, gemi adamı eğitimi vb. alanlarda hizmet verir.",
+      "content": [
+        {
+          "id": "slider",
+          "uid": "0256",
+          "title": null,
+          "text": [
+            "Gemi Acenteliği, İşletmeciliği ve Yük Taşımacılığı",
+            "Gemi-Tekne Alım-Satımı, Surveyleme ve Evraklandırma",
+            "Gemi Adamı Eğitimi ve Personel Hizmetleri"
+          ]
+        },
+        {
+          "id": "card",
+          "uid": "card_kh5",
+          "title": "Hizmetlerimiz",
+          "cards": [
+            {
+              "img": "/services/service_1",
+              "title": "Acente, İşletme ve Taşımacılık",
+              "text": "<ul><li>Gemi-Tekne Acenteliği</li><li>Gemi İşletmeciliği-Kiralama</li><li>Gemi Yük Taşımacılığı</li><li>İstanbul/Çanakkale Boğaz Acenteliği</li><li>Gemi Yük Brokerlığı</li></ul>",
+              "action": null
+            },
+            {
+              "img": "/services/service_2",
+              "title": "Alım-Satım, Raporlama ve Sigorta",
+              "text": "<ul><li>Gemi-Tekne Alım-Satımı</li><li>Fizibilite Çalışması, Raporlama</li><li>Tekne/Marine Sigorta</li><li>P&I Kulüp</li><li>Bayraklandırma, Klaslama</li><li>Sertifikalandırma</li></ul>",
+              "action": null
+            },
+            {
+              "img": "/services/service_3",
+              "title": "Gemi Bakım ve Onarım",
+              "text": "<ul><li>Gemi-Tekne Sac Ölçümü/Raporlama</li><li>Ultrasonic Ölçüm/Raporlama</li><li>Safety Malzeme Hizmetleri/Sertifikalandırma</li><li>Malzeme Tedariği</li><li>Sac, Boru ve Kaynak İşleri/Raporlama</li><li>Makine Bakım-Onarım/Raporlama</li><li>Gemi-Tekne Radio Survey</li><li>Cihaz Onarım, Bakım, Tutum/Sertifikalandırma</li><li>Gemi Elektrik ve Elektroniği Servis, Bakım ve Onarımı</li></ul>",
+              "action": null
+            },
+            {
+              "img": "/services/service_4",
+              "title": "Danışmanlık",
+              "text": "<ul><li>Deniz Hukuku Danışmanlığı</li><li>Uluslararası İnceleme</li><li>Yurt Dışı İhracat/İthalat Danışmanlığı</li><li>Tersane Yazışma ve Danışmanlık</li></ul>",
+              "action": null
+            },
+            {
+              "img": "/services/service_5",
+              "title": "Eğitim",
+              "text": "<ul><li>Gemi Adamı Eğitimi</li><li>Gemi Adamı Ehliyet ve Belgelendirme</li><li>Gemi Adamı Evrak Takip</li><li>Gemi Personeli İş Bulma ve Aracılık Hizmetleri</li></ul>",
+              "action": null
+            },
+            {
+              "img": "/services/service_6",
+              "title": "Kod Uygulamaları ve Belgelendirme",
+              "text": "<ul><li>Gemi-Tekne ISM Kod Uygulamaları</li><li>Gemi-Tekne ISPS Kod Uygulamaları</li><li>Gemi-Tekne Uluslararası Planlama</li><li>Gemi-Tekne SOLAS Uygulamaları</li><li>Gemi-Tekne MARPOL Uygulamaları Danışmanlık ve Belgelendirme</li></ul>",
+              "action": null
+            },
+            {
+              "img": "/services/service_7",
+              "title": "Gemi Kumanya Tedariği",
+              "text": "<ul><li>Gemi Kumanya ve Malzeme Tedariği/İkmali</li></ul>",
+              "action": null
+            }
+          ]
+        },
+        {
+          "id": "list-slider",
+          "uid": "6584",
+          "title": "Klas Kuruluşları",
+          "list": [
+            [
+              {
+                "link": null,
+                "img": "/classes/class_1",
+                "text": "Deniz Ticaret Odası"
+              },
+              { "link": null, "img": "/classes/class_2", "text": "IMO" },
+              {
+                "link": null,
+                "img": "/classes/class_3",
+                "text": "Panama Maritime Documentation Services"
+              },
+              {
+                "link": null,
+                "img": "/classes/class_4",
+                "text": "Vega Register"
+              }
+            ],
+            [
+              { "link": null, "img": "/classes/class_5", "text": "ICS Class" },
+              {
+                "link": null,
+                "img": "/classes/class_6",
+                "text": "Panama Shipping Registrar"
+              },
+              { "link": null, "img": "/classes/class_7", "text": "NASHA" }
+            ]
+          ]
+        }
+      ]
+    },
+    "aboutus": {
+      "metatitle": "Hakkımızda | Rodas Ship Group",
+      "description": "Rodas Denizcilik Gemicilik Turizm San. Ltd. Şti. 2022 yılında bulunduğu bölgede bilgi deneyimli kadrosu ile kurulmuştur.",
+      "content": [
+        { "id": "banner", "title": "Hakkımızda", "img": "/banner/banner_1" },
+        {
+          "id": "p",
+          "text": "<h2>Rodas Denizcilik Gemicilik Turizm San. Ltd. Şti. </h2><p>2022 yılında bulunduğu bölgede bilgi deneyimli kadrosu ile kurulmuştur. Faaliyet olarak denizcilik sektörünün her kolunda her türlü faaliyet için tasarlanmıştır.</p> <ul><li>Ulusal ve uluslararası yatırımcılara danışmanlık ve destek</li><li>Gemi ve tekne acenteliği</li><li>Boğazlar acenteliği</li><li>Gemi işletmecilik, balıkçılık, gemi alım-satımı, deniz hukuku danışmanlığı</li><li>Personel hizmetleri, klaslama</li></ul><p>Bir Doğu Karadeniz şirketi olan Rodas Marine bu bölgedeki balıkçılık firmalarına ve balıkçılık gemileri içinde gerekli olan tedarik ve sertifikasyon içinde gerekli çalışmaları yürütmektedir.</p><p>Bölgedeki denizcilik merakı olan yatırımcıları doğru yönlendirme ve hedef politikalarını planlamalarını yapan bir firmadır.</p><p>Modern ve kaliteli hizmet anlayışı ile yola çıkan Rodas Marine hızlı, kaliteli ve güvenli hizmet ile denizciliğe katkı vermeyi hedef haline getirmiştir.</p>"
+        }
+      ]
+    },
+    "services": {
+      "metatitle": "Hizmetlerimiz | Rodas Ship Group",
+      "description": "Gemi acente, işletme ve taşımacılık, gemi alım-satım ve sigorta, gemi bakım ve onarım, deniz hukuku danışmanlığı, gemi adamı eğitimi vb. hizmetleri sunmaktayız.",
+      "content": [
+        { "id": "banner", "title": "Hizmetlerimiz", "img": "/banner/banner_3" },
+        { "id": "ref", "refId": "card_kh5", "refPage": "index" }
+      ]
+    },
+    "career": {
+      "metatitle": "Kariyer | Rodas Ship Group",
+      "description": "Rodas Denizcilik Gemicilik Turizm San.Ltd.Şti. bünyesinde çeşitli unvan ve pozisyonlarda çalışmak için iş başvurusu yapabilirsiniz.",
+      "content": [
+        { "id": "banner", "title": "Kariyer", "img": "/banner/banner_2" },
+        {
+          "id": "form",
+          "action": { "type": "POST", "text": "Başvur", "url": "/form/career" },
+          "items": [
+            {
+              "id": "name",
+              "type": "text",
+              "text": "Ad-Soyad",
+              "required": true
+            },
+            {
+              "id": "email",
+              "type": "email",
+              "text": "E-Posta",
+              "required": true
+            },
+            {
+              "id": "tel",
+              "type": "tel",
+              "text": "Telefon No",
+              "required": true
+            },
+            {
+              "id": "cv",
+              "type": "url",
+              "text": "CV Link (LinkedIn, Kariyer.net vb.)",
+              "required": true
+            },
+            {
+              "id": "msg",
+              "type": "textarea",
+              "text": "Mesajınız (isteğe bağlı)",
+              "required": false
+            },
+            {
+              "id": "from",
+              "type": "hidden",
+              "value": "info@rodasshipgroup.com",
+              "error": "",
+              "required": true
+            }
+          ]
+        }
+      ]
+    },
+    "contact": {
+      "metatitle": "İletişim | Rodas Ship Group",
+      "description": "Rodas Ship Group iletişim sayfasında Rodas Denizcilik Gemicilik Turizm San.Ltd.Şti. iletişim bilgileri ve iletişim formu yer almaktadır.",
+      "content": [
+        { "id": "banner", "title": "İletişim", "img": "/banner/banner_4" },
+        {
+          "id": "p",
+          "text": "<br><h2 class=\"border-bottom\">İletişim Bilgilerimiz</h2> <h3>Rodas Denizcilik Gemicilik Turizm San.Ltd.Şti.</h3> <address> Çıtlakkale Mah.İnönü Cad.No:114/A<br> Merkez / Giresun / Türkiye<br> </address> <b>Tel:</b><br><a href=\"tel:+905425229690\">+90 542 522 96 90</a><br> <b>E-mail:</b><br> <div>info@rodasshipgroup.com</div><br> <div>ops@rodasshipgroup.com</div><br> <div>chartering@rodasshipgroup.com</div>"
+        },
+        {
+          "id": "form",
+          "action": {
+            "type": "POST",
+            "text": "Gönder",
+            "url": "/form/contact"
+          },
+          "items": [
+            {
+              "id": "name",
+              "type": "text",
+              "text": "Ad-Soyad",
+              "required": true
+            },
+            {
+              "id": "email",
+              "type": "email",
+              "text": "E-Posta",
+              "required": true
+            },
+            {
+              "id": "msg",
+              "type": "textarea",
+              "text": "Mesaj",
+              "required": true
+            },
+            {
+              "id": "from",
+              "type": "hidden",
+              "value": "info@rodasshipgroup.com",
+              "error": ""
+            }
+          ]
+        }
+      ]
+    },
+    "catalog": {
+      "metatitle": "Katalog | Rodas Ship Group",
+      "description": "Kurumsal bilgilerimizin ve hizmetlerimizin yer aldığı kataloğumuzu inceleyebilirsiniz.",
+      "content": [
+        {
+          "id": "p",
+          "text": "<div class=\"pt-5 text-center\">Kataloğumuz yapım aşamasındadır.</div>"
+        }
+      ]
+    }
+  }
+}
